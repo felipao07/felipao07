@@ -1,3 +1,4 @@
+#!/bin/bash
 #qual seu salario mensal por mes ?
 #quantos hora voce trabalha mensal?
 
